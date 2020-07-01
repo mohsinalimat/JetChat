@@ -1,20 +1,20 @@
 # JetChat
- Swift5.0编写的简仿微信聊天应用，完美支持表情键盘、单聊、群聊、本地消息会话缓存。
+The simple WeChat chat application written in Swift5.0 perfectly supports emoji keyboard, single chat, group chat, and local message session cache.
 
  ### Examples
 ![image](https://github.com/tanagile/JetChat/blob/master/ScreenShot/JetChat.gif)
 
-### 主要实现功能
-* 聊天室键盘控件封装处理，支持表情文字多行输入，支持iOS13
-* 用户：添加好友，添加群，用户备注名称修改，本地实时同步
-* 聊天：一对一单聊，一对多群聊，支持文字、图片发送
-* 会话：最近聊天会话记录，并按照最近时间排序列表展示
-* 角标：单个会话未读消息数量展示，全部未读消息数量显示
-* 清除：单个消息删除，退出群，删除好友，消息会话角标清除，记录删除
-* 具体功能了解可以下载源码运行查看
+### Main functions
+* Encapsulation processing of keyboard control in chat room, support multi-line input of emoji text, support iOS13
+* Users: add friends, add groups, modify user note names, local real-time synchronization
+* Chat: one-on-one single chat, one-to-many group chat, support text and picture sending
+* Conversation: recent chat conversation record, and list display according to the latest time
+* Subscript: display the number of unread messages in a single session, display the number of all unread messages
+* Clear: delete a single message, exit the group, delete friends, clear the corner of the message conversation, delete the record
+* Specific functions can be downloaded and run to view
 
 ### Tips
-* 如果你有更好的建议和方案请在lssues提交
+* If you have better suggestions and plans, please submit them in lssues
 
 ### Licensed under the MIT licens.
-* 如果你对IM即时通讯感兴趣，或者该项目对你有一些帮助，希望可以给我点个🌟Star🌟，非常感谢<br>
+* If you are interested in IM instant messaging, or the project is helpful to you, I hope you can give me a 🌟Star🌟, thank you very much<br>
